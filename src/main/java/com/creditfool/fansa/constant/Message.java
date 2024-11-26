@@ -7,6 +7,9 @@ public class Message {
     public static final String LOGIN_SUCCESS = "Login successfully";
     public static final String REGISTER_SUCCESS = "User registered successfully";
 
+    public static final String BAD_ARGUMENT_REQUEST_BODY = "Not a valid argument input";
+    public static final String REQUEST_BODY_IS_MISSING = "Required request body is missing";
+
     public static final String USERNAME_WRONG_PATTERN = "Username must be between 3 and 20 characters and only contain letters and numbers";
     public static final String PASSWORD_WRONG_PATTERN = "Password must be between 8 and 20 characters";
 
