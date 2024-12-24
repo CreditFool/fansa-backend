@@ -17,4 +17,6 @@ public class Message {
     public static final String USERNAME_OR_EMAIL_ALREADY_EXIST = "Username or Email already exist";
     public static final String INVALID_CREDENTIAL = "Invalid Username/Email or Password";
 
+    public static final String PROFILE_NOT_FOUND = "Profile not found";
+
 }
